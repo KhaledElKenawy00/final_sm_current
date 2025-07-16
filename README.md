@@ -27,6 +27,15 @@ A cross-platform **Flutter Desktop App** for user authentication using **SQLite 
   <img src="assets/Screenshot 2025-07-16 025613.png" alt="Profile Screen" width="50%" style="margin: 0 10px;" />
 </p>
 
+<p align="center">
+  <img src="assets/Screenshot 2025-07-16 030741.png" alt="Login Screen" width="50%" style="margin-right: 10px;" />
+  <img src="assets/Screenshot 2025-07-16 030754.png" alt="Profile Screen" width="50%" style="margin: 0 10px;" />
+</p>
+<p align="center">
+  <img src="assets/Screenshot 2025-07-16 030823.png" alt="Login Screen" width="50%" style="margin-right: 10px;" />
+  <img src="assets/Screenshot 2025-07-16 030852.png" alt="Profile Screen" width="50%" style="margin: 0 10px;" />
+</p>
+
 ---
 
 ## 📁 Folder Structure
